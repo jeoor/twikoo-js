@@ -1,0 +1,24 @@
+{
+  "name": "jeoor-twikoo",
+  "version": "1.6.45",
+  "description": "twikoo",
+  "keywords": [
+    "twikoo",
+    "qq-nick"
+  ],
+  "homepage": "https://github.com/jeoor/twikoo-js#readme",
+  "bugs": {
+    "url": "https://github.com/jeoor/twikoo-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeoor/twikoo-js.git"
+  },
+  "license": "ISC",
+  "author": "jeoor",
+  "type": "commonjs",
+  "main": "twikoo.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
